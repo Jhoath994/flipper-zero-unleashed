@@ -1,0 +1,15 @@
+Build report
+============
+Total URLs:   36
+OK URLs:      36
+Failed URLs:  0
+
+Per-category:
+  - desfire            urls=1   ok=1   fail=0   tokens=58     filtered=58    
+  - hitag2             urls=1   ok=1   fail=0   tokens=7      filtered=5     
+  - iclass             urls=3   ok=3   fail=0   tokens=835    filtered=835   
+  - mifare_classic     urls=27  ok=27  fail=0   tokens=5336   filtered=4479  
+  - mifare_plus        urls=1   ok=1   fail=0   tokens=32     filtered=32    
+  - mifare_ultralightc urls=1   ok=1   fail=0   tokens=7      filtered=7     
+  - misc               urls=1   ok=1   fail=0   tokens=2477   filtered=2477  
+  - t55xx              urls=1   ok=1   fail=0   tokens=125    filtered=125   
